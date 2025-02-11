@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <s:from action="HelloStrutsAction">
+    <s:form action="HelloStrutsAction">
         <s:submit value="HelloStruts" />
     </s:form>
 
